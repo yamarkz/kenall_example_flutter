@@ -2,7 +2,7 @@
 
 | Get Address  |  Search Address  | Get City |
 | ---- | ---- | ---- |
-|  ![image1](https://user-images.githubusercontent.com/12509392/128193779-699bee88-9c82-42c7-866e-8febb98dac00.png)  |  ![image2](https://user-images.githubusercontent.com/12509392/128194006-0fe17637-2d00-4a8a-859a-e7b500ec0082.png)  |  ![image3](https://user-images.githubusercontent.com/12509392/128194439-726ac982-5dd8-4e2a-9b9a-73cbddfc9b13.png) |
+| <img src="https://user-images.githubusercontent.com/12509392/128193779-699bee88-9c82-42c7-866e-8febb98dac00.png" width="270"> |  <img src="https://user-images.githubusercontent.com/12509392/128194006-0fe17637-2d00-4a8a-859a-e7b500ec0082.png" width="270">  | <img src="https://user-images.githubusercontent.com/12509392/128195236-6b601c2c-accb-4568-a4a6-b160ec141c47.png" width="270">  |
 
 ## Getting Started
 
